@@ -1,0 +1,22 @@
+{
+  "name": "asssignment-of-module-18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "csurf": "^1.11.0",
+    "express": "^4.18.2",
+    "express-mongo-sanitize": "^2.2.0",
+    "express-rate-limiter": "^1.3.1",
+    "helmet": "^7.1.0",
+    "hpp": "^0.2.3",
+    "mongoose": "^8.0.3"
+  }
+}
